@@ -12,7 +12,7 @@ Then, navigate to the extension settings.
 
 Look for `Language` tab.
 
-Slide both `Romanization` and `Translate song lyrics` to the right in order to turn it on. If I need to taught you like a 5 years old, Romanization like an alphabetical version of logographic/ideographic scripts. For example, the romanization of Japanese characters (Hiragana and Katakana) is called rōmaji. While for Chinese characters (Hanzi), it's called pinyin.
+Slide both `Romanization` and `Translate song lyrics` to the right in order to turn it on. If I need to taught you like a 5 years old, Romanization is like an alphabetical version of logographic/ideographic scripts. For example, the romanization of Japanese characters (Hiragana and Katakana) is called rōmaji. While for Chinese characters (Hanzi), it's called pinyin.
 
 # List of Synced Songs
 
