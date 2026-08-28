@@ -23,7 +23,7 @@ This is the list of the songs that I've already synced. Before you click the lin
 3. [Ping Pong GL!CH, Kasane Teto and 重音テト](https://music.youtube.com/watch?v=v_KHqSPXxww)
 4. TBA
 
-# What Did I Use to Build These TTMLs/
+# What Did I Use to Build These TTMLs
 
 While coding it via Text Editor may be possible it is mentally not suggested (ofc duh, you want me to vomit after doing one song syncing? even one process with GUI cost me hours to do it). The media what I used for this TTML is [modified-composer](https://github.com/noobpro45/modified-composer), a forked version of [composer](https://github.com/better-lyrics/composer).
 
