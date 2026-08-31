@@ -27,6 +27,6 @@ This is the list of the songs that I've already synced. Before you click the lin
 
 While coding it via Text Editor may be possible it is mentally not suggested (ofc duh, you want me to vomit after doing one song syncing? even one process with GUI cost me hours to do it). The media what I used for this TTML is [modified-composer](https://github.com/noobpro45/modified-composer), a forked version of [composer](https://github.com/better-lyrics/composer).
 
-The modified version allows me to add a Romanization text bellow certain lyric's line. While I don't know yet to this day, whether the original has provided manual romanization addition in the og composer.
+But today, the original composer is already has the feature to add transliteration and translation manually via the Language Tab.
 
 So basically they are GUI focused according to their reliability usage.
